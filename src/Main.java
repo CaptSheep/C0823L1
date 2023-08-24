@@ -3,10 +3,10 @@
 public class Main {
     public static void main(String[] args) {
         // KDL bien = gtri
-        int number = 1;
-        byte numberByte = 1;
-        float numberFloat = 1.1f;
-        double numberDouble = 1.2;
+        int number = 10;
+        byte numberByte = 100;
+        float numberFloat = 1.3f;
+        double numberDouble = 2.2;
         boolean booleanResult = true; //false
         System.out.println(number);
         System.out.println(numberByte);
